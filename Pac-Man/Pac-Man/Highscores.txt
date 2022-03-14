@@ -1,0 +1,4 @@
+Player 1			Total Score: 320
+
+Level :			Score :			Time :
+1			310			14
